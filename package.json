@@ -55,7 +55,7 @@
     "cross-env": "^7.0.2",
     "eslint": "^6.8.0",
     "istanbul": "^0.4.5",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "make-coverage-badge": "^1.0.1",
     "mocha": "7.1.0",
     "nyc": "^15.0.1",
